@@ -1,0 +1,10 @@
+server:
+  listen_addr: ":8081"
+  web_listen_addr: ":8082"
+  admin_key: "sk-admin-default"
+
+storage:
+  data_dir: "./data"
+  model_refresh_sec: 3600
+
+
