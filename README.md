@@ -1,4 +1,5 @@
 # API Bridge 1.0
+（本项目完全通过deepseekv4构建）
 
 Go 语言编写的 AI API 统一网关，对外提供单一 OpenAI 兼容接口，对内路由转接到多个上游 AI 提供商（DeepSeek、智谱 ChatGLM、月之暗面 Kimi、本地 llama.cpp 等）。
 
